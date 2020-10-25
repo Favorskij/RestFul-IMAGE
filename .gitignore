@@ -6,6 +6,8 @@
 
 *.class
 
+*.gitignore
+*.iml
 *.war
 *.jar
 *.ear
